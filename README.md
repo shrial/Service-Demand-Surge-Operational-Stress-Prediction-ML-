@@ -80,7 +80,7 @@ The system uses **time-series feature engineering** and machine learning models 
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/Lakshmihollat/Service-Demand-Surge-Operational-Stress-Prediction-ML-.git
 
 # Install dependencies
 pip install -r requirements.txt
