@@ -1,6 +1,3 @@
-Here’s a **clean, professional GitHub README section** you can directly use for your project 👇 (this is internship-level quality 🚀)
-
----
 
 # 🚀 Urban Service Demand Surge Prediction (SBPI + ML)
 
@@ -91,5 +88,3 @@ pip install -r requirements.txt
 # Run model
 python main.py
 ```
-
-Just tell me 👍
